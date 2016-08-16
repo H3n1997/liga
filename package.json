@@ -1,0 +1,33 @@
+{
+  "name": "nod",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Henry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "file-extension": "^2.0.1",
+    "font-awesome": "^4.6.3",
+    "jade": "^1.11.0",
+    "jquery": "^3.1.0",
+    "materialize-css": "^0.97.7",
+    "moment": "^2.14.1",
+    "multer": "^1.2.0",
+    "page": "^1.7.1",
+    "pug": "^2.0.0-beta4",
+    "superagent": "^2.1.0",
+    "webcamjs": "^1.0.12",
+    "yo-yo": "^1.2.2"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.5.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "description": ""
+}
